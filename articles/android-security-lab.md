@@ -6,8 +6,6 @@ tags: ["Android", "Security", "Reverse Engineering", "Frida", "APKTool", "Jadx",
 draft: false
 ---
 
-# Android Security Lab
-
 ## 📌 Reverse-Engineering Android Apps — Playlist
 
 This is a practical video playlist about Android reverse engineering, mobile security testing, and application analysis.
