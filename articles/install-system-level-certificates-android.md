@@ -6,8 +6,6 @@ tags: ["Android", "Security", "Certificates", "MITM", "Charles Proxy", "Burp Sui
 draft: false
 ---
 
-# Installing System-Level Certificates on Android
-
 This guide shows how to install a custom CA certificate as a **system-level trusted certificate** on Android.
 
 This is useful when you want to inspect HTTPS traffic from Android apps with tools like Charles Proxy, Burp Suite, mitmproxy, or similar proxy tools.
