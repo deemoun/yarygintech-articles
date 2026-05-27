@@ -6,8 +6,6 @@ tags: ["Linux", "MacBook Pro", "Old Hardware", "Apple", "OpenCore", "Ubuntu", "M
 draft: false
 ---
 
-# Giving an Old MacBook Pro a Second Life with Linux
-
 Old computers usually disappear in one of three places: a drawer, a resale marketplace, or the trash.
 
 That is understandable. A battery dies, macOS stops getting updates, the keyboard starts acting weird, the SSD feels small, or the whole machine simply begins to feel outdated. At that point, buying something new looks easier than fixing what you already have.
