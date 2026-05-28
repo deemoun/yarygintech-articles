@@ -6,8 +6,6 @@ tags: ["Android", "Security", "Reverse Engineering", "Frida", "APKTool", "Jadx",
 draft: false
 ---
 
-## 📌 Reverse-Engineering Android Apps — Playlist
-
 This is a practical video playlist about Android reverse engineering, mobile security testing, and application analysis.
 
 The series covers smali patching, root detection bypasses, Frida instrumentation, traffic interception, emulator workflows, Android filesystem internals, APKTool, Jadx, and general security research workflows.
