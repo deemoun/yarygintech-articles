@@ -1,3 +1,7 @@
+---
+title: PulseAPK-Core Project
+description: Professional-grade APK reverse engineering toolkit
+---
 # PulseAPK-Core Project
 
 PulseAPK-Core is a professional-grade, cross-platform toolkit for Android APK reverse engineering and security analysis.  
