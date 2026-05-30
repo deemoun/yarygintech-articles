@@ -11,6 +11,8 @@ The point is not to **“hack random apps”**. The point is to understand how A
 
 We will use a deliberately vulnerable demo app made for learning and testing.
 
+{% youtube iu-LOHj5QVM "Inject Frida Gadget into Android APK" %}
+
 ---
 
 ## What Is a Root Check?

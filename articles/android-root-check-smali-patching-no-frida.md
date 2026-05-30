@@ -13,6 +13,8 @@ This is useful for learning how Android apps protect themselves and how static a
 
 > Use this only in a lab, on your own apps, intentionally vulnerable apps, or apps where you have permission to test. Do not patch or redistribute third-party apps.
 
+{% youtube PY8TjCS96c8 "Root Detection Bypass" %}
+
 ---
 
 ## What We Are Doing

@@ -9,6 +9,8 @@ When we analyze mobile applications, one of the most useful skills is the abilit
 
 Traffic interception is especially useful for QA engineers, mobile testers, security researchers, and developers who need to debug API behavior, reproduce bugs, or test edge cases that are difficult to trigger naturally.
 
+{% youtube PY8TjCS96c8 "Root Detection Bypass" %}
+
 ## VPN vs Proxy: What Is the Difference?
 
 A VPN and a proxy may look similar from the outside because both can route traffic through another point in the network. But their goals are different.
