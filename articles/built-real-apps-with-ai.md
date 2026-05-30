@@ -41,13 +41,9 @@ Could I have written it myself? Yes, absolutely. But that was not the point. I w
 
 And I got exactly that.
 
-![Image Relocator Script](image-relocator-script.png)
-
 I also created a repository where I collect small useful scripts like this.
 
 The next script I built listed available Android emulators on macOS and launched the selected one. That one became especially handy for testing.
-
-![Script that scans for available emulators on Mac](mac-emulator-script.png)
 
 Then I made another script that converts Markdown files into PDFs. Again, nothing revolutionary. But it worked perfectly for my workflow.
 
@@ -68,8 +64,6 @@ Building scripts is nice, but I wanted to see what would happen if I tried to bu
 My first candidate was obvious: a YouTube downloader.
 
 That is how I created **ZV Tube** — basically a simple GUI around `yt-dlp`.
-
-![ZV Tube interface](zv-tube-interface.png)
 
 The idea was not to reinvent YouTube clients or create some giant media platform. I just wanted a clean desktop app that could search videos, download them, or play only the audio.
 
@@ -109,15 +103,11 @@ But I did not want a giant project. I wanted my own tiny tool with the behavior 
 
 So I built **Damn Simple File Manager**.
 
-![Damn Simple File Manager Interface](damn-simple-file-manager-interface.png)
-
 It took me about three days to build the full functionality I wanted.
 
 The app is intentionally simple. Two panels, basic navigation, file operations, keyboard shortcuts, and the small conveniences that matter to me.
 
 Later, I also added the ability to bookmark specific paths and links, with export and import support for URLs.
-
-![Link and Bookmarks Manager](link-and-bookmarks-manager.png)
 
 No telemetry.
 
@@ -146,8 +136,6 @@ For some reason, I assumed Chrome extensions were kind of dead as a category. Bu
 So I built one.
 
 That is how **404 Doctor** was born.
-
-![404 Doctor Chrome Extension](404-doctor-chrome-extension.png)
 
 It was built in a couple of hours, and it works well for my needs.
 
