@@ -22,6 +22,8 @@ The better question is:
 
 Because that’s where the whole discussion becomes more interesting.
 
+{% youtube uSt7_TpkAew "Why I don't like MacBook Neo" %}
+
 ## The MacBook Neo Is Not Really for Power Users
 
 A fair response to my original take was this:
