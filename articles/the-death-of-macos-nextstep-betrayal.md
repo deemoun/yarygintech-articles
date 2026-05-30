@@ -1,14 +1,9 @@
 ---
 title: "The Death of macOS: The NeXTSTEP Betrayal"
 description: "How macOS moved from the open, inspectable NeXTSTEP inheritance toward a sealed Apple Silicon appliance."
-date: 2026-05-29
-tags:
-  - macOS
-  - NeXTSTEP
-  - Apple
-  - Apple Silicon
-  - operating systems
-  - retro computing
+pubDate: 2026-05-29
+tags: ["Apple", "macOS", "Operating Systems", "NextSTEP"]
+draft: false
 ---
 
 I have been a Mac user for more than fifteen years.
