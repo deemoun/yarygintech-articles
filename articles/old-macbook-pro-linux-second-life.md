@@ -10,6 +10,8 @@ Old computers usually disappear in one of three places: a drawer, a resale marke
 
 That is understandable. A battery dies, macOS stops getting updates, the keyboard starts acting weird, the SSD feels small, or the whole machine simply begins to feel outdated. At that point, buying something new looks easier than fixing what you already have.
 
+{% youtube FS8y1rW0jJY "MacBook Pro Revival" %}
+
 But I do not think every old machine should be treated as waste.
 
 Sometimes an old computer does not need to be replaced. It just needs a different job.
