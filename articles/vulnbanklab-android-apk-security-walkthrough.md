@@ -16,7 +16,7 @@ Today we are looking at **VulnBankLab**, an intentionally vulnerable Android tra
 
 **Project link:**
 
-- [VulnerableBankApp / VulnBankLab on GitHub](https://github.com/deemoun/VulnerableBankApp)
+- [VulnerableBankApp on GitHub]([https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/Vulnerable-Bank-App-Demo))
 
 The app imitates a small fake banking workflow: login, dashboard, transactions, transfer, settings, and a security information screen. It is not supposed to be secure. It is a lab. The whole idea is to make unsafe Android patterns visible and easy to explain.
 
@@ -705,9 +705,8 @@ Start there. Build the habit. Then go deeper.
 
 ## Links
 
-- VulnerableBankApp / VulnBankLab: [https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/VulnerableBankApp)
+- VulnerableBankApp: [[https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/Vulnerable-Bank-App-Demo)]([https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/Vulnerable-Bank-App-Demo))
 - PulseAPK Core: [https://github.com/deemoun/PulseAPK-Core](https://github.com/deemoun/PulseAPK-Core)
-- PulseAPK: [https://github.com/deemoun/PulseAPK](https://github.com/deemoun/PulseAPK)
 - Apktool: [https://ibotpeaches.github.io/Apktool/](https://ibotpeaches.github.io/Apktool/)
 - JADX: [https://github.com/skylot/jadx](https://github.com/skylot/jadx)
 - MobSF: [https://github.com/MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
