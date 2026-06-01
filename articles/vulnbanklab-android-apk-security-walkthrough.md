@@ -19,8 +19,6 @@ Today we are looking at **VulnBankLab**, an intentionally vulnerable Android tra
 
 The app imitates a small fake banking workflow: login, dashboard, transactions, transfer, settings, and a security information screen. It is not supposed to be secure. It is a lab. The whole idea is to make unsafe Android patterns visible and easy to explain.
 
-You can use this article as a blog post, a workshop handout, or as a video script.
-
 > Educational note: only test apps you own, apps designed for training, or apps where you have explicit permission. This walkthrough is based on a deliberately vulnerable lab project.
 
 ---
@@ -38,8 +36,6 @@ The repository already documents the intended weak points. The app contains unsa
 | Deep links | Transfer screen is reachable via `vuln://transfer` | Demonstrates auth bypass through external entry points |
 | Validation | Transfer form accepts weak input paths | Shows why UI validation and backend validation both matter |
 | Root / emulator checks | Detection is intentionally weak | Shows why client-side checks are not a security boundary |
-
-This is small enough to explain in one video and large enough to demonstrate a real Android testing workflow.
 
 ---
 
@@ -117,12 +113,6 @@ A debuggable Android application is easier to inspect and manipulate. It can mak
 | Open `AndroidManifest.xml` | `android:debuggable="true"` is present |
 | Install and run debug build | App behaves like an intentionally inspectable lab target |
 | Discuss production fix | Make sure release builds are not debuggable |
-
-### Video demo idea
-
-Show the manifest in Android Studio or JADX. Zoom into `android:debuggable="true"`, then explain:
-
-> This is fine for training. But when this lands in production, it becomes a gift to anyone trying to inspect the application.
 
 ### How to fix in a real app
 
