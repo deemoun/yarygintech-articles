@@ -400,8 +400,6 @@ Log.d("VulnBankLab", "Transfer activity opened without authentication checks")
 Log.d("VulnBankLab", "Transfer requested to=$recipient amount=$amount")
 ```
 
-This is perfect for a video because it is easy to show in real time.
-
 ### Logcat demo
 
 ```bash
@@ -481,12 +479,6 @@ The code itself says this is intentionally weak for demo purposes.
 | Build string checks | Can be spoofed or changed |
 | Client-side result | Can be patched or hooked |
 | UI warning only | Does not enforce real security controls |
-
-### How to explain it in a video
-
-This is where you can make a very important point:
-
-> Root detection is not a security boundary. It is a signal. If your whole security model collapses when a boolean changes from true to false, your model is weak.
 
 ### Defensive lesson
 
@@ -597,15 +589,6 @@ Project:
 
 - [PulseAPK Core](https://github.com/deemoun/PulseAPK-Core)
 
-Recommended flow:
-
-1. Open PulseAPK Core.
-2. Use **Decompile** to decode the APK.
-3. Open **Analyser** and point it at the decompiled project.
-4. Review Smali/static analysis results.
-5. Use findings as talking points in the article or video.
-6. If needed, use the build/patch workflow for controlled lab modifications.
-
 PulseAPK Core is especially useful for workshops because it reduces the number of terminal commands beginners need to remember.
 
 ---
@@ -639,83 +622,6 @@ This is a strong bridge for QA engineers moving toward AppSec. It feels like tes
 | 7 | Sensitive Logcat output | Credentials and token logged | Data leakage in debug/log pipelines | Sanitize logs, strip debug logs in release |
 | 8 | Weak root/emulator checks | Path and build-string checks only | Easy bypass or false confidence | Treat as risk signal, not security boundary |
 | 9 | Weak transfer validation | Free-form transfer input and external entry | Bad transaction handling patterns | Validate in UI, domain layer and backend |
-
----
-
-## Video Structure You Can Use
-
-### 1. Hook
-
-> I built a deliberately vulnerable Android banking app. Not to make a real bank, obviously, but to show how mobile security issues look in code, in the manifest, in Logcat, and through ADB.
-
-### 2. Project intro
-
-Show the repo:
-
-- [https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/VulnerableBankApp)
-
-Explain that it is a lab built for QA engineers, AppSec learners, students and instructors.
-
-### 3. Tooling
-
-Show the tool table. Mention:
-
-- JADX for quick code reading.
-- Apktool for decoding and rebuilding.
-- PulseAPK Core for GUI-based APK workflow.
-- ADB and Logcat for dynamic testing.
-- Frida / Objection for advanced runtime exploration.
-
-### 4. Manifest review
-
-Open `AndroidManifest.xml` and show:
-
-- `debuggable=true`
-- exported activities
-- `vuln://transfer` deep link
-
-### 5. Static secrets
-
-Open `SecurityVulnerabilities.kt` and show:
-
-- hardcoded username/password
-- fake token
-- fake API URL
-- fake API key
-
-### 6. Logs and local storage
-
-Run the app, login, and show:
-
-- username/password in Logcat
-- token in Logcat
-- plaintext SharedPreferences
-
-### 7. Deep link auth bypass
-
-Run:
-
-```bash
-adb shell am start -W -a android.intent.action.VIEW -d "vuln://transfer"
-```
-
-Show transfer screen opening without normal login navigation.
-
-### 8. Root detection discussion
-
-Show root/emulator checks. Explain why client-side checks are not enough.
-
-### 9. Fixes
-
-End with a constructive section:
-
-- Do not export internal activities.
-- Do not ship debug builds.
-- Do not hardcode secrets.
-- Do not store passwords locally.
-- Do not log sensitive data.
-- Validate deep links like API endpoints.
-- Treat mobile clients as untrusted.
 
 ---
 
