@@ -2,7 +2,7 @@
 title: "Best Raspberry Pi Retro Gaming OS: RetroPie, Recalbox, Batocera or Lakka?"
 description: "A practical guide to choosing the best retro gaming distribution for Raspberry Pi, including RetroPie, Recalbox, Batocera and Lakka."
 pubDate: 2026-06-01
-tags: ["Raspberry Pi", "Raspberry Pi Gaming", "Retropie", "Kali Linux", "Raspberry Pi Gaming]
+tags: ["Raspberry Pi", "Raspberry Pi Gaming", "Retropie", "Kali Linux", "Raspberry Pi Gaming"]
 draft: false
 ---
 
