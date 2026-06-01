@@ -16,7 +16,7 @@ Today we are looking at **VulnBankLab**, an intentionally vulnerable Android tra
 
 **Project link:**
 
-- [VulnerableBankApp on GitHub]([https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/Vulnerable-Bank-App-Demo))
+- [VulnerableBankApp on GitHub]([[https://github.com/deemoun/VulnerableBankApp](https://github.com/deemoun/Vulnerable-Bank-App-Demo)](https://github.com/deemoun/Vulnerable-Bank-App-Demo))
 
 The app imitates a small fake banking workflow: login, dashboard, transactions, transfer, settings, and a security information screen. It is not supposed to be secure. It is a lab. The whole idea is to make unsafe Android patterns visible and easy to explain.
 
