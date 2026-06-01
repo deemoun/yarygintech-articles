@@ -66,8 +66,6 @@ For this particular application, I would start with the simplest flow:
 7. Inspect local storage after login.
 8. Discuss fixes.
 
-That is already enough for a strong educational video.
-
 ---
 
 ## Project Overview
