@@ -1,5 +1,5 @@
 ---
-title: "Automation: Web + Mobile"
+title: "Software Test Automation: Web + Mobile"
 description: "Principles, locators, simple examples, and unit tests for practical QA automation."
 pubDate: 2026-05-24
 tags: ["Automation", "Web", "Mobile", "Locators", "JUnit", "Gradle"]
