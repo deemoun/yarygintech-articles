@@ -1,8 +1,8 @@
 ---
 title: "Linux for Old Macs: Which Distro to Choose?"
 description: "A practical guide for bringing old Intel Macs back to life with Linux: MX Linux, Linux Mint, Zorin OS Lite, Lubuntu, Debian, antiX, and what actually makes sense in 2026."
-pubDate: 2026-06-06
-tags: ["Linux", "Old Macs", "MacBook", "iMac", "MX Linux", "Linux Mint", "Zorin OS", "Lubuntu", "Retro Tech"]
+pubDate: 2026-06-04
+tags: ["Linux", "macOS", "Desktop Linux", "Linux Mint", "Ubuntu", "Debian", "Open Source"]
 draft: false
 ---
 
