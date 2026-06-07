@@ -12,6 +12,7 @@ Built with **.NET 8 + Avalonia**, it provides an end-to-end workflow for:
 - Rebuilding and signing APKs
 
 ---
+{% youtube https://www.youtube.com/watch?v=iu-LOHj5QVM "PulseAPK Application for APK Decompilation" %}
 
 ## 🔧 Main Workflow Areas
 
