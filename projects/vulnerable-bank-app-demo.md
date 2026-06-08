@@ -2,6 +2,9 @@
 title: Vulnerable Bank App Demo
 description: Intentionally vulnerable Android banking app for QA, Appium, Espresso, and mobile security training
 link: https://github.com/deemoun/Vulnerable-Bank-App-Demo
+applicationCategory: EducationalApplication
+operatingSystem: Android
+sameAs: https://github.com/deemoun/Vulnerable-Bank-App-Demo
 ---
 Vulnerable Bank App Demo is an intentionally vulnerable Android banking application built for **QA engineers, test automation students, and mobile security analysts**.
 
