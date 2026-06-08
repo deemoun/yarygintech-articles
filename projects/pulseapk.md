@@ -2,6 +2,9 @@
 title: PulseAPK-Core Project
 description: Professional-grade APK reverse engineering toolkit
 link: https://github.com/deemoun/PulseAPK-Core
+applicationCategory: DeveloperApplication
+operatingSystem: Windows, macOS, Linux
+sameAs: https://github.com/deemoun/PulseAPK-Core
 ---
 PulseAPK-Core is a professional-grade, cross-platform toolkit for Android APK reverse engineering and security analysis.  
 Built with **.NET 8 + Avalonia**, it provides an end-to-end workflow for:
