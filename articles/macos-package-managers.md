@@ -1,5 +1,5 @@
 ---
-title: "Package Managers for macOS That Are Still Worth Using"
+title: "Package Managers for macOS That Are Worth Using"
 description: "A practical guide to active macOS package managers: Homebrew, MacPorts, Nix, pkgx, Conda/Mamba, and mas-cli."
 pubDate: 2026-06-11
 tags: ["Apple", "NixOS", "Homebrew", "Pacckages", "DevTools"]
