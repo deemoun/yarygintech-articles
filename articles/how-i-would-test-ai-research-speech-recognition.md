@@ -2,7 +2,7 @@
 title: "How I Would Test an AI Research App with Speech Recognition"
 description: "A practical QA strategy for testing a voice-based AI research product: speech recognition, intent handling, retrieval, citations, latency, edge cases, privacy, and automation."
 pubDate: 2026-06-10
-tags: ["Software Testing", "QA", "AI", Career"]
+tags: ["Software Testing", "QA", "AI", "Career"]
 draft: false
 ---
 AI research apps are a weird category to test.
