@@ -240,16 +240,3 @@ But it is no longer just a Mac.
 It is now a Mac inside Apple’s larger privacy, services, mobile, and AI machine. That machine has advantages. It also has a cost.
 
 And if Apple wants macOS to stay special, it needs to remember why people loved the Mac in the first place: not because it had the most features, but because it made the computer feel direct, calm, and personal.
-
----
-
-## Sources and Further Reading
-
-- [Apple: macOS](https://www.apple.com/os/macos/)
-- [Apple Support: Find out which macOS your Mac is using](https://support.apple.com/en-us/109033)
-- [Apple Support: Use Apple Intelligence on your Mac](https://support.apple.com/guide/mac-help/intro-to-apple-intelligence-mchl46361784/mac)
-- [Apple Support: Apple Intelligence and privacy on Mac](https://support.apple.com/guide/mac-help/apple-intelligence-and-privacy-mchlfc0d4779/mac)
-- [Apple Security Research: Private Cloud Compute](https://security.apple.com/blog/private-cloud-compute/)
-- [Apple Support: iPhone Mirroring requirements](https://support.apple.com/en-us/120421)
-- [Apple Newsroom: macOS Sequoia is available today](https://www.apple.com/newsroom/2024/09/macos-sequoia-is-available-today/)
-- [Apple Support: macOS Tahoe compatibility](https://support.apple.com/en-us/122867)
