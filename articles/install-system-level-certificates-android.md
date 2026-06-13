@@ -16,6 +16,8 @@ Use this only on your own devices, lab emulators, test apps, or systems where yo
 
 ## Why System Certificates Matter
 
+{% youtube Kt6BheMzjTY "Install System Certificates on Android" %}
+
 Android has two certificate stores:
 
 - **User certificates**
