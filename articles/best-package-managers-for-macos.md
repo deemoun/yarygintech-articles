@@ -1086,20 +1086,3 @@ A good package setup should make your machine easier to manage.
 If your package manager becomes your hobby, fine.
 
 But do not confuse that with productivity.
-
-## Useful Links
-
-- [Homebrew](https://brew.sh/)
-- [Homebrew Formulae and Casks](https://formulae.brew.sh/)
-- [Homebrew Documentation](https://docs.brew.sh/)
-- [Homebrew Manpage](https://docs.brew.sh/Manpage)
-- [MacPorts](https://www.macports.org/)
-- [MacPorts Guide](https://guide.macports.org/)
-- [MacPorts Installation](https://www.macports.org/install.php)
-- [Nix](https://nixos.org/)
-- [Nix Manual](https://nix.dev/manual/nix)
-- [nix-darwin](https://github.com/nix-darwin/nix-darwin)
-- [nix-darwin Manual](https://nix-darwin.github.io/nix-darwin/manual/)
-- [Home Manager](https://nix-community.github.io/home-manager/)
-- [Setapp](https://setapp.com/)
-- [Setapp Pricing](https://setapp.com/pricing)
