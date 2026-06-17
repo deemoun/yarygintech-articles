@@ -44,7 +44,7 @@ Here is the practical version.
 | Tech/Linux creator | Linux or macOS |
 | Professional video editor | macOS or Windows |
 | Adobe-heavy creator | Windows or macOS |
-| Final Cut Pro creator | macOS |
+| Final Cut Pro creator | macOS (obviously) |
 | Budget creator using old hardware | Linux or Windows |
 | Creator who hates maintenance | macOS |
 | Creator who wants maximum hardware choice | Windows |
@@ -141,7 +141,7 @@ macOS is great for:
 - podcasts
 - screen recordings
 - writing
-- editing on battery
+- editing on battery (since it's really efficient)
 - working while traveling
 - creators who want a clean laptop workflow
 - people who do not want to babysit drivers
@@ -797,7 +797,7 @@ If the OS becomes the main character, something went wrong.
 
 The best OS for most content creators is **macOS**.
 
-It has the best balance of creative software, laptop quality, audio/video reliability, battery life, and low-friction publishing.
+**It has the best balance of creative software, laptop quality, audio/video reliability, battery life, and low-friction publishing.**
 
 The best OS for gaming creators and maximum hardware power is **Windows**.
 
