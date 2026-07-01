@@ -15,7 +15,7 @@ Let's see what it actually does differently.
 
 ------------------------------------------------------------------------
 
-# Homebrew vs Nix Philosophy
+## Homebrew vs Nix Philosophy
 
 Homebrew installs software into locations like:
 
@@ -48,7 +48,7 @@ Multiple versions happily coexist.
 
 ------------------------------------------------------------------------
 
-# What Does the Nix Directory Look Like?
+## What Does the Nix Directory Look Like?
 
 A typical installation contains directories similar to:
 
@@ -80,7 +80,7 @@ Unlike Homebrew, binaries aren't scattered throughout the filesystem.
 
 ------------------------------------------------------------------------
 
-# Why Are Paths So Weird?
+## Why Are Paths So Weird?
 
 Those long hashes aren't random.
 
@@ -97,7 +97,7 @@ That makes every package effectively immutable.
 
 ------------------------------------------------------------------------
 
-# Reproducible Development Environments
+## Reproducible Development Environments
 
 Instead of writing setup instructions, projects can include a
 configuration file.
@@ -116,7 +116,7 @@ without interfering with each other.
 
 ------------------------------------------------------------------------
 
-# What Permissions Does Nix Need?
+## What Permissions Does Nix Need?
 
 This is one of the biggest differences from Homebrew.
 
@@ -138,7 +138,7 @@ Nix client.
 
 ------------------------------------------------------------------------
 
-# Why Does It Create Build Users?
+## Why Does It Create Build Users?
 
 The build users are intentional.
 
@@ -156,7 +156,7 @@ This design is very different from traditional package managers.
 
 ------------------------------------------------------------------------
 
-# Does Nix Modify macOS?
+## Does Nix Modify macOS?
 
 Much less than many people expect.
 
@@ -175,7 +175,7 @@ Your actual macOS installation remains largely untouched.
 
 ------------------------------------------------------------------------
 
-# Rollbacks
+## Rollbacks
 
 Every environment is stored as a generation.
 
@@ -186,7 +186,7 @@ need it.
 
 ------------------------------------------------------------------------
 
-# Can Homebrew and Nix Coexist?
+## Can Homebrew and Nix Coexist?
 
 Yes.
 
@@ -199,7 +199,7 @@ Many experienced macOS developers run both without issues.
 
 ------------------------------------------------------------------------
 
-# Downsides
+## Downsides
 
 Nix isn't perfect.
 
@@ -215,7 +215,7 @@ The learning curve is significantly steeper than Homebrew.
 
 ------------------------------------------------------------------------
 
-# Final Thoughts
+## Final Thoughts
 
 If you simply want to install `wget` or `ffmpeg`, Homebrew remains the
 easiest choice.
