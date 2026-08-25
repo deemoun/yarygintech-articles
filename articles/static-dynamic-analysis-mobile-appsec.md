@@ -1,8 +1,8 @@
 ---
-title: "5 Ways macOS Improved — and 5 Ways It Regressed"
-description: "macOS is more secure, connected, and polished than ever, but the modern privacy-first, AI-heavy, mobile-inspired direction also made the Mac feel less like a focused desktop operating system."
-pubDate: "2026-06-12"
-tags: ["macos", "apple", "privacy", "ai", "desktop", "apple-silicon", "opinion"]
+title: "Static vs Dynamic Analysis: Understanding Mobile App Behavior for AppSec"
+description: "How to analyze your mobile applications statically and dynamically"
+pubDate: "2026-08-24"
+tags: ["mobile security", "static analysis", "mobile development", "appsec", "security specialist", "android development"]
 draft: false
 ---
 When you start looking at mobile application security, one distinction
